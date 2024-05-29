@@ -6,12 +6,12 @@
         "dotnet lambda help",
         "All the command line options for the Lambda command can be specified in this file."
     ],
-    "profile"     : "user-visual-studio",
+    "profile"     : "user-vs",
     "region"      : "us-east-1",
     "configuration" : "Release",
     "s3-prefix"     : "ApiPeliculasAWS/",
     "template"      : "serverless.template",
     "template-parameters" : "",
-    "s3-bucket"           : "bucket-apis-paco",
-    "stack-name"          : "ApiPeliculasAWS"
+    "s3-bucket"           : "s3-mvcyapi",
+    "stack-name"          : "ApiPeliculasAWSAnita"
 }
